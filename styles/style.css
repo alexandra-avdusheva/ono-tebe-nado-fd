@@ -14,8 +14,7 @@ a {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  padding-top: 20px;
-  padding-left: 3px;
+ 
 }
 
 .address__item {
@@ -39,8 +38,7 @@ a {
 .header__links-list {
   display: flex;
   gap: 12px;
-  padding-top: 20px;
-  padding-left: 3px;
+  
 }
 
 .header__links-list-item {
@@ -65,7 +63,7 @@ a {
 .header__logo {
   width: 136px;
   height: 105px;
-  padding-top: 12px;
+  
 }
 
 .header__logo-image {
@@ -93,7 +91,7 @@ a {
 .overlay {
   position: absolute;
   inset: 0;
-  background: rgba(0, 0, 0, 0.6);
+  background: rgba(0, 0, 0, 0.5);
   z-index: 0;
 }
 
@@ -107,7 +105,7 @@ a {
 
   display: flex;
   flex-direction: column;
-  gap: 18px;
+  gap: 15px;
 
   margin-bottom: 100px;
 }
@@ -329,7 +327,7 @@ a {
 .footer__social-list {
   justify-self: end;
   display: flex;
-  gap: 45px;
+  gap: 47px;
 }
 
 .footer__social-icon {
